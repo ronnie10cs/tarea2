@@ -1,0 +1,42 @@
+body{
+    font-family: 'Square Peg', cursive;
+    color: salmon;
+    background-color: beige;
+}
+.encabezado{
+    background-color: antiquewhite;
+    font-size: 50px;
+}
+.encabezado p{
+    color: rgb(255, 0, 0);
+    font-family: 'Square Peg', cursive;
+    font-size: 32px;
+    letter-spacing: 2px;
+    font-weight: bold;   
+}
+.principal_clase button{
+    width: 130px;
+    font-size: 32px;
+    letter-spacing: 2px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.encabezado h2{
+    font-size: 50px;
+    font-family: 'Square Peg', cursive;
+}
+.copyrigth{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: 32px;
+    color: darkturquoise;
+}
+#eti_ans{
+    font-size: 43px;
+}
+#eti_precision{
+    font-size: 43px;
+}
